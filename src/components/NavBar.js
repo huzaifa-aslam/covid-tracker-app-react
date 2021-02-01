@@ -79,7 +79,7 @@ export default function NavBar() {
             <MenuIcon />
           </IconButton>
           <Typography className={classes.title} variant="h6" noWrap>
-            Covid Tracker
+            Covid Tracker App
           </Typography>
           <div className={classes.search}>
             <div className={classes.searchIcon}>
